@@ -4,9 +4,6 @@ Just a simple sentimet classifier demo
 # Sentiment Classifier
 
 Simple AI that predicts if text is **POSITIVE 😊** or **NEGATIVE 😞**
-
-**Made by:** [Your Name] | **Class:** [Your Class]
-
 ---
 
 ## How to Use
