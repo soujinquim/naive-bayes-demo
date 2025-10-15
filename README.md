@@ -8,7 +8,7 @@ Simple AI that predicts if text is **POSITIVE 😊** or **NEGATIVE 😞**
 
 ## How to Use
 
-1. Click the link → **"Copy to Drive"**
+1. Git clone, copy paset, colab etc 
 2. Click **Play**
 3. Type your review
 4. See the result!
