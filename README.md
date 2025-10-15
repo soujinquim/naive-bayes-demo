@@ -49,4 +49,3 @@ labels = [1, 1, 1, 0, 0, 0]  # 1=Positive, 0=Negative
 
 ---
 
-**Questions?** Ask [Your Name] in class!
