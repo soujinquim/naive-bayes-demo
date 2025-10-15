@@ -1,7 +1,7 @@
 # naive-bayes-demo
 Just a simple sentimet classifier demo
 
-# 🤖 Sentiment Classifier
+# Sentiment Classifier
 
 Simple AI that predicts if text is **POSITIVE 😊** or **NEGATIVE 😞**
 
@@ -12,7 +12,7 @@ Simple AI that predicts if text is **POSITIVE 😊** or **NEGATIVE 😞**
 ## How to Use
 
 1. Click the link → **"Copy to Drive"**
-2. Click **Play** ▶️
+2. Click **Play**
 3. Type your review
 4. See the result!
 
