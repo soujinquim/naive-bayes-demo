@@ -8,7 +8,7 @@ Simple AI that predicts if text is **POSITIVE 😊** or **NEGATIVE 😞**
 
 ## How to Use
 
-1. Git clone, copy paset, colab etc 
+1. Git clone, ctrl+C ctrl+V, colab etc up to you 
 2. Click **Play**
 3. Type your review
 4. See the result!
